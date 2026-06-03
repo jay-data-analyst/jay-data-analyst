@@ -1,37 +1,44 @@
-# Hi, I'm Jay Prajapati 👋
+# Hey, I'm Jay Prajapati 👋
 
-Data Analyst Executive with experience in sales analytics, dashboard development, data cleaning, and business intelligence.
+**Data Analyst Executive @ CultureX** — I turn messy data into decisions.  
+Based in Ahmedabad, India. Currently building sales analytics infrastructure,  
+BI dashboards, and automation workflows that actually get used by leadership.
 
-## Skills
+---
 
-- SQL
-- Power BI
-- Tableau
-- Excel
-- Python
-- Data Visualization
-- ETL
-- KPI Reporting
+## 🛠️ What I Work With
 
-## Professional Highlights
+**Analytics & BI** — Excel · SQL · Tableau · Power BI · Looker Studio  
+**Programming** — Python (Pandas, NumPy) · DAX · Power Query · JavaScript  
+**Automation** — n8n · Apify · Google Sheets API · Workflow Design  
+**Business** — Financial Modelling · Forecasting · KPI Reporting · Market Research
 
-- Improved sales data accuracy by 30%
-- Promoted from Data Analyst Intern to Executive
-- Built KPI dashboards used by leadership teams
-- Analyzed 8,000+ transaction records
+---
 
-## Featured Projects
+## 📌 Featured Projects
 
-### Festival vs Regular Sales Analysis
-Power BI dashboard analyzing festive and non-festive consumer purchasing behavior.
+### 🎯 Influencer Marketing SQL Qualification Engine
+> Automated n8n workflow that scrapes brand Instagram profiles, analyzes Reels for paid partnership signals, and classifies Sales Qualified Leads — zero manual review.  
+> `n8n` `Apify` `JavaScript` `Google Sheets API` `Workflow Automation`  
+> 🔗 [View Project](https://github.com/jay-data-analyst/Influencer-Marketing-Lead-Qualification-Engine)
 
-🔗 Repository:
-https://github.com/jay-data-analyst/Festival-Sales-Analysis
+### 📊 Festival vs Regular Sales Analysis
+> Analyzed 8,000+ e-commerce transactions to quantify Diwali vs baseline revenue — surfacing a 35%+ spike in select categories with full Power BI dashboards.  
+> `Power BI` `Excel` `Consumer Behavior` `E-commerce Analytics`  
+> 🔗 [View Project](https://github.com/jay-data-analyst/Festival-Sales-Analysis)
 
-## Connect With Me
+---
 
-LinkedIn:
-www.linkedin.com/in/jay-prajapati2004
+## 🏢 Currently
 
-Email:
-imjay2004@gmail.com
+**Data Analyst Executive — CultureX** *(Aug 2025 – Present)*  
+→ Engineering data pipelines that improved sales data accuracy by 30%  
+→ Building Tableau dashboards tracking 10+ pipeline KPIs used by senior leadership  
+→ Delivering weekly analytics reports that shape sales targeting strategy
+
+---
+
+## 📬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jay%20Prajapati-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/jay-prajapati2004)
+[![Email](https://img.shields.io/badge/Email-imjay2004%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:imjay2004@gmail.com)
