@@ -8,10 +8,10 @@ BI dashboards, and automation workflows that actually get used by leadership.
 
 ## 🛠️ What I Work With
 
-**Analytics & BI** — Excel · SQL · Tableau · Power BI · Looker Studio  
-**Programming** — Python (Pandas, NumPy) · DAX · Power Query · JavaScript  
-**Automation** — n8n · Apify · Google Sheets API · Workflow Design  
-**Business** — Financial Modelling · Forecasting · KPI Reporting · Market Research
+**Analytics & BI** - Excel · SQL · Tableau · Power BI · Looker Studio  
+**Programming** - Python (Pandas, NumPy) · DAX · Power Query · JavaScript  
+**Automation** - n8n · Apify · Google Sheets API · Workflow Design  
+**Business** - Financial Modelling · Forecasting · KPI Reporting · Market Research
 
 ---
 
