@@ -1,6 +1,6 @@
 # Hey, I'm Jay Prajapati 👋
 
-**Data Analyst Executive @ CultureX** — I turn messy data into decisions.  
+**Data Analyst Executive @ CultureX** - I turn messy data into decisions.  
 Based in Ahmedabad, India. Currently building sales analytics infrastructure,  
 BI dashboards, and automation workflows that actually get used by leadership.
 
